@@ -93,7 +93,7 @@
 ![Image alt](https://github.com/IRA-OS/LAB/blob/master/lab2/screen/3.21.png)
 - Скриншот 3.22 - последняя проверка pvs, lvs, vgs.
 ![Image alt](https://github.com/IRA-OS/LAB/blob/master/lab2/screen/3.22.png)
-- Скриншот 3.23 - послежняя проверка и информация о дисках.
+- Скриншот 3.23 - последняя проверка и информация о дисках.
 ![Image alt](https://github.com/IRA-OS/LAB/blob/master/lab2/screen/3.23.png)
 - Скриншот 3.24 - последняя информация о RAID.
 ![Image alt](https://github.com/IRA-OS/LAB/blob/master/lab2/screen/3.24.png)
